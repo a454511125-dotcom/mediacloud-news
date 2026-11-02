@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Cloud 新闻采集"
+  short_description: "获取新闻元数据、媒体目录和报道统计，并按需抓取正文，保留来源、进度及失败记录"
+  default_prompt: "使用 $mediacloud-news 按给定议题、日期和媒体范围获取新闻数据，需要全文时继续提取正文。"
